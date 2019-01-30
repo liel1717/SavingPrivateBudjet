@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AttGöra App</string>
+    <string name="action_settings">Inställningar</string>
+    <string name="select_one">VÄLJ EN</string>
+    <string name="create">SKAPA</string>
+    <string name="delete_one">TA BORT EN</string>
+    <string name="title">Titel</string>
+</resources>
